@@ -1,0 +1,1501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EF3B9965-6FBC-4853-BFA3-6AA802EDAC5B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "62569E16-CBD1-44B7-B980-E8C45E1B68E7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARFaceMask/ARNameAndAppearanceViewContainer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "173"
+            endingLineNumber = "173"
+            landmarkName = "createNameAnchor()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7D00C173-57E0-469D-A6F6-CBC9E73182F4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARFaceMask/ARNameAndAppearanceViewContainer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
+            landmarkName = "selectPreviousMask()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7D00C173-57E0-469D-A6F6-CBC9E73182F4 - aabc525cd4fc8e64"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARNameAndAppearanceContentView.selectPreviousMask() -&gt; ()"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARNameAndAppearanceViewContainer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "240">
+               </Location>
+               <Location
+                  uuid = "7D00C173-57E0-469D-A6F6-CBC9E73182F4 - aabc525cd4fc8e64"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARNameAndAppearanceContentView.selectPreviousMask() -&gt; ()"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARNameAndAppearanceViewContainer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "556">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "173F20B8-8C5A-44D6-8798-3FD6C909D8E1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARFaceMask/ARNameAndAppearanceViewContainer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "selectNextMask()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "173F20B8-8C5A-44D6-8798-3FD6C909D8E1 - 9d764ed1839f0443"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARNameAndAppearanceContentView.selectNextMask() -&gt; ()"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARNameAndAppearanceViewContainer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "240">
+               </Location>
+               <Location
+                  uuid = "173F20B8-8C5A-44D6-8798-3FD6C909D8E1 - 9d764ed1839f0443"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARNameAndAppearanceContentView.selectNextMask() -&gt; ()"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARNameAndAppearanceViewContainer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "496">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "55DE3B74-F53E-436F-A667-2958BAF5B98B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARFaceMask/ARNameAndAppearanceViewContainer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "184"
+            endingLineNumber = "184"
+            landmarkName = "createMaskAnchor()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "92B21119-A313-4E61-8142-6D4F1A80817B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARFaceMask/ARNameAndAppearanceViewContainer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "186"
+            endingLineNumber = "186"
+            landmarkName = "createMaskAnchor()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "92B21119-A313-4E61-8142-6D4F1A80817B - 5c5f1a805b7c1caa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARNameAndAppearanceViewContainer.createMaskAnchor() -&gt; RealityKit.AnchorEntity"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARNameAndAppearanceViewContainer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "186"
+                  endingLineNumber = "186"
+                  offsetFromSymbolStart = "264">
+               </Location>
+               <Location
+                  uuid = "92B21119-A313-4E61-8142-6D4F1A80817B - 5c5f1a805b7c1caa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARNameAndAppearanceViewContainer.createMaskAnchor() -&gt; RealityKit.AnchorEntity"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARNameAndAppearanceViewContainer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "186"
+                  endingLineNumber = "186"
+                  offsetFromSymbolStart = "308">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0C3C746D-4352-4137-B1FE-E33B189B06C3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARFaceMask/ARNameAndAppearanceViewContainer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "190"
+            endingLineNumber = "190"
+            landmarkName = "createMaskAnchor()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E39DC8D4-D4F7-4AB8-8C8F-A8593EE0243B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARFaceMask/ARNameAndAppearanceViewContainer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "192"
+            endingLineNumber = "192"
+            landmarkName = "createMaskAnchor()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4D6F12C8-3771-4F76-AB87-763DB7892777"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARFaceMask/ARNameAndMask/ARNameAndAppearanceViewContainer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "216"
+            endingLineNumber = "216"
+            landmarkName = "createMaskAnchor()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4D6F12C8-3771-4F76-AB87-763DB7892777 - 663ce0ce3c46febb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARNameAndAppearanceViewContainer.createMaskAnchor() -&gt; RealityKit.AnchorEntity"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARNameAndMask/ARNameAndAppearanceViewContainer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "190"
+                  endingLineNumber = "190"
+                  offsetFromSymbolStart = "388">
+               </Location>
+               <Location
+                  uuid = "4D6F12C8-3771-4F76-AB87-763DB7892777 - 663ce0ce3c46fedc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARNameAndAppearanceViewContainer.createMaskAnchor() -&gt; RealityKit.AnchorEntity"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARNameAndMask/ARNameAndAppearanceViewContainer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "189"
+                  endingLineNumber = "189"
+                  offsetFromSymbolStart = "372">
+               </Location>
+               <Location
+                  uuid = "4D6F12C8-3771-4F76-AB87-763DB7892777 - 663ce0ce3c46fe3f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARNameAndAppearanceViewContainer.createMaskAnchor() -&gt; RealityKit.AnchorEntity"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARNameAndMask/ARNameAndAppearanceViewContainer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "186"
+                  endingLineNumber = "186"
+                  offsetFromSymbolStart = "480">
+               </Location>
+               <Location
+                  uuid = "4D6F12C8-3771-4F76-AB87-763DB7892777 - e65c56e28c2b52c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARNameAndAppearanceViewContainer.createMaskAnchor() -&gt; RealityKit.AnchorEntity"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/AR/ARFaceMask/ARFaceMask/ARNameAndMask/ARNameAndAppearanceViewContainer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "216"
+                  endingLineNumber = "216"
+                  offsetFromSymbolStart = "500">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "741885AF-7B5C-46BD-8778-3A34951F5246"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARFaceMask/ARNameAndMask/ARNameAndAppearanceViewContainer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "215"
+            endingLineNumber = "215"
+            landmarkName = "createMaskAnchor()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "741885AF-7B5C-46BD-8778-3A34951F5246 - 663ce0ce3c46fefd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARNameAndAppearanceViewContainer.createMaskAnchor() -&gt; RealityKit.AnchorEntity"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARNameAndMask/ARNameAndAppearanceViewContainer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "188"
+                  endingLineNumber = "188"
+                  offsetFromSymbolStart = "376">
+               </Location>
+               <Location
+                  uuid = "741885AF-7B5C-46BD-8778-3A34951F5246 - 663ce0ce3c46fefd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARNameAndAppearanceViewContainer.createMaskAnchor() -&gt; RealityKit.AnchorEntity"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARNameAndMask/ARNameAndAppearanceViewContainer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "188"
+                  endingLineNumber = "188"
+                  offsetFromSymbolStart = "292">
+               </Location>
+               <Location
+                  uuid = "741885AF-7B5C-46BD-8778-3A34951F5246 - 663ce0ce3c46fefd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARNameAndAppearanceViewContainer.createMaskAnchor() -&gt; RealityKit.AnchorEntity"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARNameAndMask/ARNameAndAppearanceViewContainer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "188"
+                  endingLineNumber = "188"
+                  offsetFromSymbolStart = "336">
+               </Location>
+               <Location
+                  uuid = "741885AF-7B5C-46BD-8778-3A34951F5246 - 663ce0ce3c46fe40"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARNameAndAppearanceViewContainer.createMaskAnchor() -&gt; RealityKit.AnchorEntity"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARNameAndMask/ARNameAndAppearanceViewContainer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "185"
+                  endingLineNumber = "185"
+                  offsetFromSymbolStart = "408">
+               </Location>
+               <Location
+                  uuid = "741885AF-7B5C-46BD-8778-3A34951F5246 - 663ce0ce3c46fe40"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARNameAndAppearanceViewContainer.createMaskAnchor() -&gt; RealityKit.AnchorEntity"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARNameAndMask/ARNameAndAppearanceViewContainer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "185"
+                  endingLineNumber = "185"
+                  offsetFromSymbolStart = "452">
+               </Location>
+               <Location
+                  uuid = "741885AF-7B5C-46BD-8778-3A34951F5246 - e65c56e28c2b52e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARNameAndAppearanceViewContainer.createMaskAnchor() -&gt; RealityKit.AnchorEntity"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/AR/ARFaceMask/ARFaceMask/ARNameAndMask/ARNameAndAppearanceViewContainer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "215"
+                  endingLineNumber = "215"
+                  offsetFromSymbolStart = "408">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "02553AD3-8A7C-4C7E-B109-0991B447941E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARFaceMask/EntityFactory.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "loadGlasses1Model()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D75BA2DE-22E7-4607-AB86-1E55F3A9A3FF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARFaceMask/ARSetObjectOnTheFloor/ARSetObjectViewContainer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "121"
+            endingLineNumber = "121"
+            landmarkName = "setAnObject()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2D2B57A4-1D7C-44A3-8475-05E0B615CCCC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARFaceMask/ARSetObjectOnTheFloor/ARSetObjectViewContainer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "120"
+            endingLineNumber = "120"
+            landmarkName = "setAnObject()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "131900EB-6A8B-4587-A4DC-2610FD1AF50C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARFaceMask/ARClothes/ARClothesContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "131900EB-6A8B-4587-A4DC-2610FD1AF50C - 86abc6e1fedf6c94"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARClothesViewContainer.createCostumeAnchor() -&gt; RealityKit.AnchorEntity"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARClothes/ARClothesContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "572">
+               </Location>
+               <Location
+                  uuid = "131900EB-6A8B-4587-A4DC-2610FD1AF50C - 86abc6e1fedf6c94"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARClothesViewContainer.createCostumeAnchor() -&gt; RealityKit.AnchorEntity"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARClothes/ARClothesContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "616">
+               </Location>
+               <Location
+                  uuid = "131900EB-6A8B-4587-A4DC-2610FD1AF50C - 86abc6e1fedf6d9c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARClothesViewContainer.createCostumeAnchor() -&gt; RealityKit.AnchorEntity"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARClothes/ARClothesContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "256">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F6BF2264-4418-4F5E-9F01-2257E84448E4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARFaceMask/ARClothes/ARClothesContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "F6BF2264-4418-4F5E-9F01-2257E84448E4 - 86abc6e1fedf6cb5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARClothesViewContainer.createCostumeAnchor() -&gt; RealityKit.AnchorEntity"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARClothes/ARClothesContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "644">
+               </Location>
+               <Location
+                  uuid = "F6BF2264-4418-4F5E-9F01-2257E84448E4 - 86abc6e1fedf6dbd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARClothesViewContainer.createCostumeAnchor() -&gt; RealityKit.AnchorEntity"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARClothes/ARClothesContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "304">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C5855120-967A-4119-A80B-98874613DD01"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARFaceMask/ARClothes/ARClothesContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "C5855120-967A-4119-A80B-98874613DD01 - 86abc6e1fedf6f49"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARClothesViewContainer.createCostumeAnchor() -&gt; RealityKit.AnchorEntity"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARClothes/ARClothesContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "692">
+               </Location>
+               <Location
+                  uuid = "C5855120-967A-4119-A80B-98874613DD01 - 86abc6e1fedf6df3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARClothesViewContainer.createCostumeAnchor() -&gt; RealityKit.AnchorEntity"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARClothes/ARClothesContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "332">
+               </Location>
+               <Location
+                  uuid = "C5855120-967A-4119-A80B-98874613DD01 - 86abc6e1fedf6df3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARClothesViewContainer.createCostumeAnchor() -&gt; RealityKit.AnchorEntity"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARClothes/ARClothesContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "376">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "05C838A9-BE76-4410-873F-9CDD811D3900"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARFaceMask/ARClothes/ARClothesContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EA7C0BF3-FD06-4D80-9F0D-F951BC419D28"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARFaceMask/ARClothes/ARClothesContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "EA7C0BF3-FD06-4D80-9F0D-F951BC419D28 - 86abc6e1fedf6d39"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARClothesViewContainer.createCostumeAnchor() -&gt; RealityKit.AnchorEntity"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARClothes/ARClothesContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "256">
+               </Location>
+               <Location
+                  uuid = "EA7C0BF3-FD06-4D80-9F0D-F951BC419D28 - 86abc6e1fedf6d9c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARClothesViewContainer.createCostumeAnchor() -&gt; RealityKit.AnchorEntity"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARClothes/ARClothesContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "332">
+               </Location>
+               <Location
+                  uuid = "EA7C0BF3-FD06-4D80-9F0D-F951BC419D28 - 86abc6e1fedf6d9c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARClothesViewContainer.createCostumeAnchor() -&gt; RealityKit.AnchorEntity"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARClothes/ARClothesContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "376">
+               </Location>
+               <Location
+                  uuid = "EA7C0BF3-FD06-4D80-9F0D-F951BC419D28 - a7c849fb71e94396"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARClothesViewContainer.updateUIView(_: RealityKit.ARView, context: SwiftUI.UIViewRepresentableContext&lt;ARFaceMask.ARClothesViewContainer&gt;) -&gt; ()"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARClothes/ARClothesContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "716">
+               </Location>
+               <Location
+                  uuid = "EA7C0BF3-FD06-4D80-9F0D-F951BC419D28 - a7c849fb71e94396"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARClothesViewContainer.updateUIView(_: RealityKit.ARView, context: SwiftUI.UIViewRepresentableContext&lt;ARFaceMask.ARClothesViewContainer&gt;) -&gt; ()"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARClothes/ARClothesContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "1080">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "56460A2F-8AEE-4176-9CED-8CDC6B59EB3A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARFaceMask/ARClothes/ARClothesContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "56460A2F-8AEE-4176-9CED-8CDC6B59EB3A - 34429807dc33af95"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARClothesViewContainer.createARView(context: SwiftUI.UIViewRepresentableContext&lt;ARFaceMask.ARClothesViewContainer&gt;) -&gt; RealityKit.ARView"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARClothes/ARClothesContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "56460A2F-8AEE-4176-9CED-8CDC6B59EB3A - 30139cffb6529bfa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARClothesViewContainer.choosedModel.getter : ARFaceMask.ClothesType"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARClothes/ARClothesContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "56460A2F-8AEE-4176-9CED-8CDC6B59EB3A - be39829e75cb03ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARClothesViewContainer.choosedModel.setter : ARFaceMask.ClothesType"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARClothes/ARClothesContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "56460A2F-8AEE-4176-9CED-8CDC6B59EB3A - acd45985812395ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARClothesViewContainer.choosedModel.modify : ARFaceMask.ClothesType"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARClothes/ARClothesContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "272">
+               </Location>
+               <Location
+                  uuid = "56460A2F-8AEE-4176-9CED-8CDC6B59EB3A - 87e0ee023e0b5000"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARClothesViewContainer.choosedModel.modify : ARFaceMask.ClothesType with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARClothes/ARClothesContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "56460A2F-8AEE-4176-9CED-8CDC6B59EB3A - 3af4cf726c64575e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARClothesViewContainer.$choosedModel.getter : SwiftUI.Binding&lt;ARFaceMask.ClothesType&gt;"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARClothes/ARClothesContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "212">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5E924424-6D0A-4CDC-87D2-18E5560B8EBE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARFaceMask/ARClothes/ARClothesContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "5E924424-6D0A-4CDC-87D2-18E5560B8EBE - fb3a3c8abe05fe1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARClothesContentView.buttonsStack.getter : some"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARClothes/ARClothesContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "5E924424-6D0A-4CDC-87D2-18E5560B8EBE - d9b7f267a2ce4182"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of ARFaceMask.ARClothesContentView.choosedModel : ARFaceMask.ClothesType"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARClothes/ARClothesContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "5E924424-6D0A-4CDC-87D2-18E5560B8EBE - fc339dba22cbeade"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARClothesContentView.choosedModel.getter : ARFaceMask.ClothesType"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARClothes/ARClothesContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "5E924424-6D0A-4CDC-87D2-18E5560B8EBE - ac4f700ffc25c2c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARClothesContentView.choosedModel.setter : ARFaceMask.ClothesType"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARClothes/ARClothesContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "5E924424-6D0A-4CDC-87D2-18E5560B8EBE - 871a3d28dbf960d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARClothesContentView.choosedModel.modify : ARFaceMask.ClothesType"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARClothes/ARClothesContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "208">
+               </Location>
+               <Location
+                  uuid = "5E924424-6D0A-4CDC-87D2-18E5560B8EBE - 729904157a283151"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARClothesContentView.choosedModel.modify : ARFaceMask.ClothesType with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARClothes/ARClothesContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "5E924424-6D0A-4CDC-87D2-18E5560B8EBE - 98ba1db5c41c661a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARClothesContentView.$choosedModel.getter : SwiftUI.Binding&lt;ARFaceMask.ClothesType&gt;"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARClothes/ARClothesContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "168">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "45E2EAE5-3A6F-44DF-8887-C81C8812EAFA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARFaceMask/ARFloorTag/ARFloorTagContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "Coordinator"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "45E2EAE5-3A6F-44DF-8887-C81C8812EAFA - ca925ecfa1c63616"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARFloorTagViewContainer.Coordinator.avPlayer.getter : __C.AVPlayer"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARFloorTag/ARFloorTagContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "45E2EAE5-3A6F-44DF-8887-C81C8812EAFA - 70eb8c0ecad1a61a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARFloorTagViewContainer.Coordinator.avPlayer.setter : __C.AVPlayer"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARFloorTag/ARFloorTagContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "45E2EAE5-3A6F-44DF-8887-C81C8812EAFA - ab5f95015577baeb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARFloorTagViewContainer.Coordinator.avPlayer.modify : __C.AVPlayer"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARFloorTag/ARFloorTagContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "45E2EAE5-3A6F-44DF-8887-C81C8812EAFA - 33c965585d0de166"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARFloorTagViewContainer.Coordinator.avPlayer.modify : __C.AVPlayer with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARFloorTag/ARFloorTagContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "45E2EAE5-3A6F-44DF-8887-C81C8812EAFA - 494c4d8bb2c86c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARFloorTagViewContainer.Coordinator.init(arView: RealityKit.ARView) -&gt; ARFaceMask.ARFloorTagViewContainer.Coordinator"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARFloorTag/ARFloorTagContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "45E2EAE5-3A6F-44DF-8887-C81C8812EAFA - 76884b7c2ba60fa9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARFloorTagViewContainer.Coordinator.arView.getter : RealityKit.ARView"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARFloorTag/ARFloorTagContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "45E2EAE5-3A6F-44DF-8887-C81C8812EAFA - 9b5f8ba921c37b95"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARFloorTagViewContainer.Coordinator.arView.setter : RealityKit.ARView"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARFloorTag/ARFloorTagContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "45E2EAE5-3A6F-44DF-8887-C81C8812EAFA - 3c11d73af6cac2a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARFloorTagViewContainer.Coordinator.arView.modify : RealityKit.ARView"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARFloorTag/ARFloorTagContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "45E2EAE5-3A6F-44DF-8887-C81C8812EAFA - a97cd5e29578c9fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARFloorTagViewContainer.Coordinator.arView.modify : RealityKit.ARView with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARFloorTag/ARFloorTagContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6ABE88D0-E8E9-4DB9-94EC-EF2DDD1B8B72"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARFaceMask/ARFloorTag/ARFloorTagContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "init(arView:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "31947FEC-2EB9-4DE1-B35D-D2283695320E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARFaceMask/ARFloorTag/ARFloorTagContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "makeUIView(context:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "37A46C17-9D61-44E3-AFDC-0442C0A40171"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARFaceMask/ARFloorTag/ARFloorTagContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "makeCoordinator()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FC39AD32-EE38-441E-BAAD-308664464025"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARFaceMask/ARFloorTag/ARFloorTagContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "makeUIView(context:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FC39AD32-EE38-441E-BAAD-308664464025 - d40ee3e4418e63c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARFloorTagViewContainer.makeUIView(context: SwiftUI.UIViewRepresentableContext&lt;ARFaceMask.ARFloorTagViewContainer&gt;) -&gt; RealityKit.ARView"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARFloorTag/ARFloorTagContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "FC39AD32-EE38-441E-BAAD-308664464025 - d40ee3e4418e63c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARFloorTagViewContainer.makeUIView(context: SwiftUI.UIViewRepresentableContext&lt;ARFaceMask.ARFloorTagViewContainer&gt;) -&gt; RealityKit.ARView"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARFloorTag/ARFloorTagContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "320">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3AB26F7F-8B91-4136-BBD9-B21E2C692EE3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARFaceMask/ARFloorTag/ARFloorTagContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "makeUIView(context:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1FF9E415-DF5E-4738-BD08-4BF4255AE882"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARFaceMask/ARFloorTag/ARFloorTagContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "ARFloorTagViewContainer"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CDE47319-AD5A-4C50-8E14-E0CB7D3381EA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARFaceMask/ARFloorTag/ARFloorTagContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "session(_:didAdd:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CDE47319-AD5A-4C50-8E14-E0CB7D3381EA - caf4e2594275a8a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARFloorTagViewContainer.Coordinator.session(_: __C.ARSession, didAdd: Swift.Array&lt;__C.ARAnchor&gt;) -&gt; ()"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARFloorTag/ARFloorTagContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "1900">
+               </Location>
+               <Location
+                  uuid = "CDE47319-AD5A-4C50-8E14-E0CB7D3381EA - caf4e2594275a8a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARFloorTagViewContainer.Coordinator.session(_: __C.ARSession, didAdd: Swift.Array&lt;__C.ARAnchor&gt;) -&gt; ()"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARFloorTag/ARFloorTagContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "1460">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1B1CFA7D-E772-478E-A11D-A55691B6A867"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARFaceMask/ARFloorTag/ARFloorTagContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "setNotification()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1B1CFA7D-E772-478E-A11D-A55691B6A867 - 37b73a6d31a293fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARFloorTagViewContainer.Coordinator.setNotification() -&gt; ()"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARFloorTag/ARFloorTagContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "1B1CFA7D-E772-478E-A11D-A55691B6A867 - 7403df63c27c3e70"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Foundation.Notification) -&gt; () in ARFaceMask.ARFloorTagViewContainer.Coordinator.setNotification() -&gt; ()"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARFloorTag/ARFloorTagContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5AB0F3F5-A8C7-41D0-8A8D-35B3396F50AD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARFaceMask/ARFloorTag/ARFloorTagContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "setNotification()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF085419-630B-4BCB-8918-EB91835FA11D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARFaceMask/ARFloorTag/ARFloorTagContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "session(_:didUpdate:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BF085419-630B-4BCB-8918-EB91835FA11D - f18b8e9485ff20ba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARFloorTagViewContainer.Coordinator.session(_: __C.ARSession, didUpdate: Swift.Array&lt;__C.ARAnchor&gt;) -&gt; ()"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARFloorTag/ARFloorTagContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "368">
+               </Location>
+               <Location
+                  uuid = "BF085419-630B-4BCB-8918-EB91835FA11D - f18b8e9485ff209b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARFloorTagViewContainer.Coordinator.session(_: __C.ARSession, didUpdate: Swift.Array&lt;__C.ARAnchor&gt;) -&gt; ()"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARFloorTag/ARFloorTagContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "688">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C3AAB63F-95BA-4FCD-9FE4-4EBFE3B83029"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARFaceMask/ARFloorTag/ARFloorTagContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "session(_:didUpdate:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C3AAB63F-95BA-4FCD-9FE4-4EBFE3B83029 - f18b8e9485ff2027"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARFloorTagViewContainer.Coordinator.session(_: __C.ARSession, didUpdate: Swift.Array&lt;__C.ARAnchor&gt;) -&gt; ()"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARFloorTag/ARFloorTagContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "380">
+               </Location>
+               <Location
+                  uuid = "C3AAB63F-95BA-4FCD-9FE4-4EBFE3B83029 - f18b8e9485ff2027"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ARFaceMask.ARFloorTagViewContainer.Coordinator.session(_: __C.ARSession, didUpdate: Swift.Array&lt;__C.ARAnchor&gt;) -&gt; ()"
+                  moduleName = "ARFaceMask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alex/Desktop/ARFaceMask/ARFaceMask/ARFloorTag/ARFloorTagContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "1072">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "35B9246B-9F2A-493E-A98A-C2F50DA24162"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARFaceMask/ARVideoTag/ARVideoTagContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "session(_:didAdd:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5FB8E797-A56E-4C1A-81A0-41967D40D25D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARFaceMask/ARVideoTag/ARVideoTagContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "session(_:didAdd:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "872DB5F8-3D0A-4DF1-9820-246E05F55991"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARFaceMask/ARVideoTag/ARVideoTagContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "session(_:didAdd:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

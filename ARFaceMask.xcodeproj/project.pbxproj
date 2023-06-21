@@ -1,0 +1,503 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		FA4064142A2948B10086EF1A /* ARSetObjectViewContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4064132A2948B10086EF1A /* ARSetObjectViewContainer.swift */; };
+		FA4064162A2949C30086EF1A /* NameAndMaskEntityFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4064152A2949C30086EF1A /* NameAndMaskEntityFactory.swift */; };
+		FA4064182A294F4E0086EF1A /* ARNameAndAppearanceViewContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4064172A294F4E0086EF1A /* ARNameAndAppearanceViewContainer.swift */; };
+		FA40641E2A2A0AAE0086EF1A /* glasses1.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = FA40641D2A2A0AAE0086EF1A /* glasses1.rcproject */; };
+		FA4064202A2A0CB20086EF1A /* dog.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = FA40641F2A2A0CB20086EF1A /* dog.rcproject */; };
+		FA4064222A2A108C0086EF1A /* batman.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = FA4064212A2A108C0086EF1A /* batman.rcproject */; };
+		FA4064262A2A2B050086EF1A /* hat.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = FA4064252A2A2B040086EF1A /* hat.rcproject */; };
+		FA5E101B2A265209008877CA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA5E101A2A265209008877CA /* AppDelegate.swift */; };
+		FA5E101D2A265209008877CA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA5E101C2A265209008877CA /* ContentView.swift */; };
+		FA5E101F2A265209008877CA /* Experience.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = FA5E101E2A265209008877CA /* Experience.rcproject */; };
+		FA5E10212A26520B008877CA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA5E10202A26520B008877CA /* Assets.xcassets */; };
+		FA5E10242A26520B008877CA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA5E10232A26520B008877CA /* Preview Assets.xcassets */; };
+		FA5E10492A28D2B1008877CA /* FocusEntity in Frameworks */ = {isa = PBXBuildFile; productRef = FA5E10482A28D2B1008877CA /* FocusEntity */; };
+		FA808B0F2A320F9700D75011 /* ARVideoTagContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA808B0E2A320F9700D75011 /* ARVideoTagContentView.swift */; };
+		FAD809B22A32276500B97783 /* ARObjectTagContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAD809B12A32276000B97783 /* ARObjectTagContentView.swift */; };
+		FADDBB512A2A46D700DEDF54 /* cosmos.reality in Resources */ = {isa = PBXBuildFile; fileRef = FADDBB502A2A46D700DEDF54 /* cosmos.reality */; };
+		FADDBB562A2A470700DEDF54 /* hab.reality in Resources */ = {isa = PBXBuildFile; fileRef = FADDBB532A2A470600DEDF54 /* hab.reality */; };
+		FADDBB592A2A475900DEDF54 /* ObjectsEntityFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = FADDBB582A2A475800DEDF54 /* ObjectsEntityFactory.swift */; };
+		FADDBB5C2A2A51AD00DEDF54 /* fender.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = FADDBB5A2A2A51AD00DEDF54 /* fender.rcproject */; };
+		FADDBB5D2A2A51AD00DEDF54 /* chair.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = FADDBB5B2A2A51AD00DEDF54 /* chair.rcproject */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		FAFE353D2A3B5605005F7776 /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		FA4064132A2948B10086EF1A /* ARSetObjectViewContainer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ARSetObjectViewContainer.swift; sourceTree = "<group>"; };
+		FA4064152A2949C30086EF1A /* NameAndMaskEntityFactory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NameAndMaskEntityFactory.swift; sourceTree = "<group>"; };
+		FA4064172A294F4E0086EF1A /* ARNameAndAppearanceViewContainer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ARNameAndAppearanceViewContainer.swift; sourceTree = "<group>"; };
+		FA40641D2A2A0AAE0086EF1A /* glasses1.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = glasses1.rcproject; sourceTree = "<group>"; };
+		FA40641F2A2A0CB20086EF1A /* dog.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = dog.rcproject; sourceTree = "<group>"; };
+		FA4064212A2A108C0086EF1A /* batman.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = batman.rcproject; sourceTree = "<group>"; };
+		FA4064252A2A2B040086EF1A /* hat.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = hat.rcproject; sourceTree = "<group>"; };
+		FA5E10172A265209008877CA /* ARFaceMask.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ARFaceMask.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FA5E101A2A265209008877CA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		FA5E101C2A265209008877CA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		FA5E101E2A265209008877CA /* Experience.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = Experience.rcproject; sourceTree = "<group>"; };
+		FA5E10202A26520B008877CA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		FA5E10232A26520B008877CA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		FA808B0E2A320F9700D75011 /* ARVideoTagContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ARVideoTagContentView.swift; sourceTree = "<group>"; };
+		FA808B102A32152700D75011 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		FAD809B12A32276000B97783 /* ARObjectTagContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ARObjectTagContentView.swift; sourceTree = "<group>"; };
+		FADDBB502A2A46D700DEDF54 /* cosmos.reality */ = {isa = PBXFileReference; lastKnownFileType = file; path = cosmos.reality; sourceTree = "<group>"; };
+		FADDBB532A2A470600DEDF54 /* hab.reality */ = {isa = PBXFileReference; lastKnownFileType = file; path = hab.reality; sourceTree = "<group>"; };
+		FADDBB582A2A475800DEDF54 /* ObjectsEntityFactory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObjectsEntityFactory.swift; sourceTree = "<group>"; };
+		FADDBB5A2A2A51AD00DEDF54 /* fender.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = fender.rcproject; sourceTree = "<group>"; };
+		FADDBB5B2A2A51AD00DEDF54 /* chair.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = chair.rcproject; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		FA5E10142A265209008877CA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FA5E10492A28D2B1008877CA /* FocusEntity in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		FA4064192A2A09B10086EF1A /* ARNameAndMask */ = {
+			isa = PBXGroup;
+			children = (
+				FA4064172A294F4E0086EF1A /* ARNameAndAppearanceViewContainer.swift */,
+				FA4064152A2949C30086EF1A /* NameAndMaskEntityFactory.swift */,
+				FA40641A2A2A09BB0086EF1A /* ObjModels */,
+			);
+			path = ARNameAndMask;
+			sourceTree = "<group>";
+		};
+		FA40641A2A2A09BB0086EF1A /* ObjModels */ = {
+			isa = PBXGroup;
+			children = (
+				FA40641D2A2A0AAE0086EF1A /* glasses1.rcproject */,
+				FA40641F2A2A0CB20086EF1A /* dog.rcproject */,
+				FA4064252A2A2B040086EF1A /* hat.rcproject */,
+				FA4064212A2A108C0086EF1A /* batman.rcproject */,
+			);
+			path = ObjModels;
+			sourceTree = "<group>";
+		};
+		FA4064272A2A2D9C0086EF1A /* ARSetObjectOnTheFloor */ = {
+			isa = PBXGroup;
+			children = (
+				FA4064132A2948B10086EF1A /* ARSetObjectViewContainer.swift */,
+				FADDBB582A2A475800DEDF54 /* ObjectsEntityFactory.swift */,
+				FADDBB4F2A2A40F400DEDF54 /* ObjModels */,
+			);
+			path = ARSetObjectOnTheFloor;
+			sourceTree = "<group>";
+		};
+		FA5E100E2A265209008877CA = {
+			isa = PBXGroup;
+			children = (
+				FA5E10192A265209008877CA /* ARFaceMask */,
+				FA5E10182A265209008877CA /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		FA5E10182A265209008877CA /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FA5E10172A265209008877CA /* ARFaceMask.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FA5E10192A265209008877CA /* ARFaceMask */ = {
+			isa = PBXGroup;
+			children = (
+				FA808B102A32152700D75011 /* Info.plist */,
+				FA5E101A2A265209008877CA /* AppDelegate.swift */,
+				FA5E101C2A265209008877CA /* ContentView.swift */,
+				FAD809B02A32275100B97783 /* ARObjectTag */,
+				FADDBB5E2A2A55FB00DEDF54 /* ARVideoTag */,
+				FA4064272A2A2D9C0086EF1A /* ARSetObjectOnTheFloor */,
+				FA4064192A2A09B10086EF1A /* ARNameAndMask */,
+				FA5E101E2A265209008877CA /* Experience.rcproject */,
+				FA5E10202A26520B008877CA /* Assets.xcassets */,
+				FA5E10222A26520B008877CA /* Preview Content */,
+			);
+			path = ARFaceMask;
+			sourceTree = "<group>";
+		};
+		FA5E10222A26520B008877CA /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				FA5E10232A26520B008877CA /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		FAD809B02A32275100B97783 /* ARObjectTag */ = {
+			isa = PBXGroup;
+			children = (
+				FAD809B12A32276000B97783 /* ARObjectTagContentView.swift */,
+			);
+			path = ARObjectTag;
+			sourceTree = "<group>";
+		};
+		FADDBB4F2A2A40F400DEDF54 /* ObjModels */ = {
+			isa = PBXGroup;
+			children = (
+				FADDBB502A2A46D700DEDF54 /* cosmos.reality */,
+				FADDBB5B2A2A51AD00DEDF54 /* chair.rcproject */,
+				FADDBB5A2A2A51AD00DEDF54 /* fender.rcproject */,
+				FADDBB532A2A470600DEDF54 /* hab.reality */,
+			);
+			path = ObjModels;
+			sourceTree = "<group>";
+		};
+		FADDBB5E2A2A55FB00DEDF54 /* ARVideoTag */ = {
+			isa = PBXGroup;
+			children = (
+				FA808B0E2A320F9700D75011 /* ARVideoTagContentView.swift */,
+			);
+			path = ARVideoTag;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		FA5E10162A265209008877CA /* ARFaceMask */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FA5E10272A26520B008877CA /* Build configuration list for PBXNativeTarget "ARFaceMask" */;
+			buildPhases = (
+				FA5E10132A265209008877CA /* Sources */,
+				FA5E10142A265209008877CA /* Frameworks */,
+				FA5E10152A265209008877CA /* Resources */,
+				FAFE353D2A3B5605005F7776 /* Embed Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ARFaceMask;
+			packageProductDependencies = (
+				FA5E10482A28D2B1008877CA /* FocusEntity */,
+			);
+			productName = ARFaceMask;
+			productReference = FA5E10172A265209008877CA /* ARFaceMask.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		FA5E100F2A265209008877CA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1430;
+				LastUpgradeCheck = 1430;
+				TargetAttributes = {
+					FA5E10162A265209008877CA = {
+						CreatedOnToolsVersion = 14.3;
+					};
+				};
+			};
+			buildConfigurationList = FA5E10122A265209008877CA /* Build configuration list for PBXProject "ARFaceMask" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = FA5E100E2A265209008877CA;
+			packageReferences = (
+				FA5E10472A28D2B1008877CA /* XCRemoteSwiftPackageReference "FocusEntity" */,
+			);
+			productRefGroup = FA5E10182A265209008877CA /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				FA5E10162A265209008877CA /* ARFaceMask */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		FA5E10152A265209008877CA /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FA5E10242A26520B008877CA /* Preview Assets.xcassets in Resources */,
+				FADDBB512A2A46D700DEDF54 /* cosmos.reality in Resources */,
+				FA5E10212A26520B008877CA /* Assets.xcassets in Resources */,
+				FADDBB562A2A470700DEDF54 /* hab.reality in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		FA5E10132A265209008877CA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FADDBB5D2A2A51AD00DEDF54 /* chair.rcproject in Sources */,
+				FA4064222A2A108C0086EF1A /* batman.rcproject in Sources */,
+				FA4064162A2949C30086EF1A /* NameAndMaskEntityFactory.swift in Sources */,
+				FA4064202A2A0CB20086EF1A /* dog.rcproject in Sources */,
+				FA4064142A2948B10086EF1A /* ARSetObjectViewContainer.swift in Sources */,
+				FA40641E2A2A0AAE0086EF1A /* glasses1.rcproject in Sources */,
+				FA4064182A294F4E0086EF1A /* ARNameAndAppearanceViewContainer.swift in Sources */,
+				FAD809B22A32276500B97783 /* ARObjectTagContentView.swift in Sources */,
+				FA808B0F2A320F9700D75011 /* ARVideoTagContentView.swift in Sources */,
+				FA4064262A2A2B050086EF1A /* hat.rcproject in Sources */,
+				FA5E101D2A265209008877CA /* ContentView.swift in Sources */,
+				FA5E101B2A265209008877CA /* AppDelegate.swift in Sources */,
+				FA5E101F2A265209008877CA /* Experience.rcproject in Sources */,
+				FADDBB5C2A2A51AD00DEDF54 /* fender.rcproject in Sources */,
+				FADDBB592A2A475900DEDF54 /* ObjectsEntityFactory.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		FA5E10252A26520B008877CA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		FA5E10262A26520B008877CA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		FA5E10282A26520B008877CA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"ARFaceMask/Preview Content\"";
+				DEVELOPMENT_TEAM = G49AR2C5MH;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = ARFaceMask/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UIRequiredDeviceCapabilities = arkit;
+				INFOPLIST_KEY_UIStatusBarHidden = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = alexkovalenko.ARFaceMask;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		FA5E10292A26520B008877CA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"ARFaceMask/Preview Content\"";
+				DEVELOPMENT_TEAM = G49AR2C5MH;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = ARFaceMask/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UIRequiredDeviceCapabilities = arkit;
+				INFOPLIST_KEY_UIStatusBarHidden = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = alexkovalenko.ARFaceMask;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		FA5E10122A265209008877CA /* Build configuration list for PBXProject "ARFaceMask" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FA5E10252A26520B008877CA /* Debug */,
+				FA5E10262A26520B008877CA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FA5E10272A26520B008877CA /* Build configuration list for PBXNativeTarget "ARFaceMask" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FA5E10282A26520B008877CA /* Debug */,
+				FA5E10292A26520B008877CA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		FA5E10472A28D2B1008877CA /* XCRemoteSwiftPackageReference "FocusEntity" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/maxxfrazer/FocusEntity.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		FA5E10482A28D2B1008877CA /* FocusEntity */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = FA5E10472A28D2B1008877CA /* XCRemoteSwiftPackageReference "FocusEntity" */;
+			productName = FocusEntity;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = FA5E100F2A265209008877CA /* Project object */;
+}
